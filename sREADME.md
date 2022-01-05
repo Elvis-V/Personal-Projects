@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Elvis :)
+- 👀 I’m interested in software engineering stuff
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on projects that make a huge impact
